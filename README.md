@@ -10,9 +10,11 @@ This project was adopted from the point of view of the Cybersecurity and Informa
 Elucidations can be found later in these reports.
 
 
+
 Keywords:
 
 ISMS, Cyber, “Global Cyber and InfoSec Strategy”, ISMS Policy, Strategic Context, Design, Implementation, Operations, Enforcement, Goals, Achievement, Global, Regional, Software, Security Life Cycle.
+
 
 
 
@@ -25,9 +27,11 @@ All security teams’ activities, findings, and remediations can be found later 
 
 
 
+
 Scope of the Project:
 
 This Research Project is focusing on conducting and completing research based on Hays Central Services IT, which is a Global Position for Hays 33 countries; therefore, the Hays ISMS department is utilising Hays Global Cyber and InfoSec Strategy, and also, provides Guidelines and Directions to all security teams to each region and country based on Hays’s ISMS policy.
+
 
 
 
